@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. pizza
+2. pasta
+3. salad
+  1a. margherita 
+  2a. bolonegse
+  3a. caeser
